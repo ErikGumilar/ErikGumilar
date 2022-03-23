@@ -1,6 +1,6 @@
 # Introduction
 <h2 align="center">Hi <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, I'm Erik Gumilar</h2> 
-<h3 align="center">a Data Enthusiasm and Passionate Digital Marketing with educational background as a Engineer</h3>
+<h3 align="center">a Data Enthusiasm and Passionate Digital Marketer with educational background as an Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m graduated from **Shipbuilding Institute of Polytechnic Surabaya**
