@@ -7,7 +7,7 @@
 - 👨‍💻 Check out my personal website [here](https://ErikGumilar.github.io/index.html)
 - 📫 you can personally reach me on **erikagumi11@gmail.com**
 - 📄 Know about my [experiences](https://ErikGumilar.github.io/contactme.html)
-- ⚡ Fun fact **I an Extrovert Person who love to break the ice with a Dad Jokes**
+- ⚡ Fun fact **I am Extrovert Person who love to break the ice with a Dad Jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
